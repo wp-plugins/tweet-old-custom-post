@@ -18,7 +18,10 @@ Tweet Old Custom Post is an updated version of Tweet Old Post. Since the version
 
 This plugin helps you to keep your old posts alive by tweeting about them and driving more traffic to them (your website) from twitter. It also helps you to promote your content. You can set the time and the number of tweets to post, to attract more traffic.For questions, comments, or feature requests, contact us: contact us: <a href="http://dejanmarkovic.com/">Dejan Markovic</a>  or <a href="http://nytogroup.com/contact/">NYTO GROUP</a>.
 
-For updates follow us on https://twitter.com/nytogroup
+For updates follow us on  <a target="blank" href="http://twitter.com/dejanmmarkovic/">@dejanmmarkovic</a> or <a target="blank" href="http://twitter.com/nytogroup/">@nytogroup</a>
+
+Tweet Old Custom Post GitHub repo is available here <a target="blank" href="https://github.com/dejanmarkovic/tweet-old-custom-post">Tweet Old Custom Post</a>
+Feel free to check my projects on GitHub <a target="blank" href="https://github.com/dejanmarkovic">https://github.com/dejanmarkovic</a>
 
 **Tweet Old Custom Post provides the following features:**
 
