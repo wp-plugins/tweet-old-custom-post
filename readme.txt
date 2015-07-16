@@ -2,7 +2,7 @@
 Contributors: dejanmarkovic,nytogroup
 Tags:Tweet Old Custom Post, Tweet old post, Tweets, Promote old posts by tweeting them, Promote old custom posts,Tweet custom posts, Tweet cpt's,  Twitter, Auto Tweet, Hashtags, Twitter Hashtags, Tweet Posts, Tweet, Post Tweets, Wordpress Twitter Plugin, Twitter Plugin, Tweet Selected Posts, Twitter, Promote Posts, Tweet Random Post, Share Post, Promote Post, Post Tweets, Wordpress Twitter, Drive Traffic, Tweet Selected Posts
 Requires at least: 2.7
-Tested up to: 3.9
+Tested up to: 4.2
 Stable tag: trunk
 Donate Link: : http://nytogroup.com/tweet-old-custom-post/
 License: GPLv2 or later
@@ -35,7 +35,7 @@ Feel free to check my projects on GitHub <a target="blank" href="https://github.
 - Exclude specific posts,
 - Exclude categories of custom posts.
 
-**Please,let me know if you have any sugestions, ideas, comments!**
+**Please,let me know if you have any  ideas, comments!**
 
 == Installation ==
 
@@ -118,7 +118,7 @@ plugin.
 
 **Any more questions?**
 
-- Contact me at http://dejanmarkovic.com/
+- Contact us at http://nytogroup.com/contact/
 
 
 == Screenshots ==
@@ -127,4 +127,8 @@ plugin.
 2. Screenshot 2 configurable categories. Select categories to exclude from tweeting.
 
 == Changelog ==
-no changes currently available.
+version 15.0.1
+1. Fix for code that is handling custom posts on themes that don't have CPT implementation in tocp-admin.php
+2. Fix for code that is handling handling the css in in tocp-admin.php
+3. Fixed multiple notices in debug mode
+4. fixed the issue with admin URL
